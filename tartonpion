@@ -1,0 +1,100 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<title>Amicale des anciens élèves des établissements Saint-Joseph à Poitiers</title>
+	<meta charset="UTF-8">
+	<meta name="author" content="Bibi Goudens">
+	<meta name="version" content="1.0.1.">
+	<meta http-equiv="Content-Style-type"
+		  content="text/css">
+	<link rel="stylesheet" type="text/css" href="../style.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1" />
+</HEAD>
+<BODY class="site">
+<div class="page">
+	<!-- Barre de navigation -->
+	<IFRAME name="nav" src="../navindex.html"></IFRAME>
+	<header>
+		<img src="../images/Bandeau3.gif" alt="bandeau du site" width=90%>
+	 </header>
+
+	<!-- Premier bloc -->
+	<section id="top">
+		<h1>Philippe de LA MARQUE (1921-2009)</h1>
+
+		<div class="grille">
+			<p class="gauche"><img src="../images/Monsieur1.jpg" alt="Philippe de la Marque" title="Philippe de la Marque">
+			</p>
+			<p class="text" id="intro">
+			Né le 1er juin 1921, il est décédé dans sa 88<sup>e</sup> année, le 27 mars 2009.
+			Philippe de la MARQUE fut le premier des anciens de Saint Joseph du temps des
+			Jésuites à nous avoir alertés sur ce qui s’était passé le 4 juillet 2007, lors de
+			cette fameuse AG de l<em>’Association du Pré l’Abbesse</em>, car il avait reçu son
+			bulletin des anciens des jésuites comportant la copie de divers courriers en faisant
+			mention.<br>
+			Je me souviendrais toujours de ses interrogations d’alors :<cite>« Mais qu’est-ce
+			que c’est que cela ? »</cite>, dont il ponctuait la lecture de la lettre de réponse
+			des autorités à l’adresse des Anciens des Jésuites qui les remerciaient <em>d’avoir compris</em>.
+			Ces derniers en effet dans un courrier précédent, s’étaient félicités <em>d’avoir
+			signé sans hésitation ni murmure, conformément au souhait exprimé</em>. Monsieur
+			de la Marque fut le premier des anciens des jésuites à adhérer à l’Association des
+			anciens élèves Saint Stanislas-Saint-Joseph, et il a voté pour l’assignation
+			permettant au <em>oui</em> à l’assignation de l’emporter à 86 voix contre 4 <em>non</em>
+			seulement, à l’Assemblée Générale du 10 janvier 2009, grâce à son pouvoir.<br>
+			</p>
+		</div>
+	</section>
+	<section>
+		<div class=grille>
+			<p class="text">
+			Ses connaissances en Droit lui permettaient de comprendre sans hésitation que le
+			collège St Jo n’était pas un bien d’Eglise, comme l’on voudrait nous faire croire,
+			mais la propriété d’une association indépendante avec ses devoirs et obligations, régie
+			par la législation concernant les Associations, devant permettre au lycée de résister à
+			toute tentative de spoliation par l’Etat ou même l’Eglise. <br>
+			Sorti en 1939 de Saint Jo, avec son Bac, il fit trois années de Droit à Poitiers, mais fut
+			arrêté en 1942 en plein Poitiers, avec son cousin Tanneguy de KERMADEC et envoyé au
+			travail obligatoire en Allemagne, pour travailler dans une usine fabriquant des avions.
+			Il racontait à ses petits enfants qu’ils essayaient de <em>saboter</em> ce qu’ils avaient
+			fait, et que grâce à leur travail de <em>résistant</em> pendant la guerre, peu d’avions
+			arrivaient à voler à la sortie de l’usine. Ils s’arrangeaient pour que leur sabotage ne se
+			voit pas, car les avions étaient vérifiés par les contrôleurs allemands, ils s’arrangeaient
+			pour que telle ou telle pièce s’use rapidement et casse effectivement plus vite que prévu.
+			Ainsi ces sabotages ont grandement nui à la fiabilité de l’aviation allemande.<br>
+			C’est par de tels sabotages faits sur les systèmes de guidage des V1 et V2, qu’au
+			lieu de tomber sur Londres, ces derniers tombèrent dans la Manche. Monsieur de la
+			Marque n’a eu à notre connaissance aucune décoration, mais sans doute a indirectement
+			favorisé l’issue de la guerre. L’histoire se fait au travers de chacun des hommes et
+			chaque maillon de la chaîne a son importance.
+			</p>
+			<p class="droite"><img src="../images/Monsieur2.jpg" alt="Philippe de la Marque" title="Philippe de la Marque">
+			</p>
+		</div>
+	</section>
+	<section>
+		<div class=grille>
+		<p class="gauche"><img src="../images/Monsieur3.jpg" alt="Philippe de la Marque" title="Philippe de la Marque">
+			</p>
+			<p class="text">
+			Il a été par la suite, Directeur de l’approvisionnement des
+			produits pétroliers chez HOUGHTON. Et une fois à la retraite,
+			il s’est passionné pour les recherches historiques et généalogiques,
+			ayant même suivi des cours de paléographie à la
+			Bibliothèque nationale.<br>
+			Il est revenu terminer ses jours sur
+			Poitiers, et est décédé le 27 mars 2009 à l’âge de 88 ans. Sa
+			messe de sépulture a été célébrée en la cathédrale de Poitiers,
+			le 31 mars 2009, par le père Thierry de MASCAREL, assisté de
+			son frère et des prêtres de la paroisse.
+			</p>
+		</div>
+	</section>
+
+<!-- Footer -->
+	<footer>
+		<A href="legal.html">Mentions légales<A>&nbsp;&nbsp;Copyright 2023 Bibi Goudens
+	</footer>
+</div>
+<a class="haut" href="#top"><br>Retour haut de page</a>
+</BODY>
+</HTML>
